@@ -1,2 +1,8 @@
 # Myntra-Functional-Clone
-Ye project ek functional clone hai Myntra ke e-commerce website ka. Is project me basic functionalities include ki gayi hain jaise ki navigation, product listing, shopping cart, and checkout page. Responsive design aur interactive elements ko implement kiya gaya hai HTML, CSS, aur JavaScript ke use se.
+This project is a functional clone of the Myntra e-commerce website. Basic functionalities like navigation, product listing, shopping cart, and checkout page have been included in this project. A responsive design and interactive elements have been implemented using HTML, CSS, and JavaScript.
+
+
+
+
+
+
